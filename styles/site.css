@@ -12,6 +12,10 @@
 /* changing it a bit, does not help you learn the learning objectives of the   */
 /* assignments. Write your own code from scratch to help you learn it.         */
 
+/* Fonts - add google font @import and font-family snippets here for future use 
+
+*/
+
 html {
   font-family: 'Lucida Grande', 'Cantarell', 'Arial', sans-serif;
   background-color: #cfcbbf;
@@ -20,7 +24,7 @@ html {
 body {
   background-color: #efece5;
   color: #000000;
-
+  /* this frames the page content */
   margin: 0 auto; /* remove default spacing */
   max-width: 800px; /* frame content */
 }
